@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! I’m a B.Tech (Honors) student passionate about building scalable, high-performance applications and crafting clean, efficient code.<br><br>💻 I’ve developed and deployed 5+ React- and Python-based projects, focusing on architecture design, system performance, and real-world problem solving.<br>🚀 I enjoy collaborating on hackathons and internships, turning ideas into full-fledged products with meaningful impact.<br>🧠 Always curious, I love exploring system design, software scalability, and product engineering.<br><br>🌱 Currently learning more about backend architecture, cloud technologies, and microservices.<br>📫 Let’s connect! I’m always open to collaborations, ideas, and learning opportunities.<br><br>🌟 Fun Fact:<br>When I’m not coding, I love exploring new tech, reading about product design, and brainstorming side-project ideas.
-<br>🌐 **Check out my [Portfolio]**(https://msvaditya.github.io/Portfolio/)<br>
+<br>🌐 **Check out my Portfolio:** [Portfolio](https://msvaditya.github.io/Portfolio/)
 
 
 ## 🌐 Socials:
